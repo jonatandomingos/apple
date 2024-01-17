@@ -1,0 +1,57 @@
+
+
+.wacth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 250px;
+    background-image: url(/img/kinetic-tap-tap_endframe__ex5nglqulfee_large.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    cursor: pointer;
+
+}
+.wacth a{
+    text-decoration: none;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title h1{
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+}
+.title h3{
+    color: white;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+.sub-title{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: 400;
+}
+.sub-title h2{
+    padding-bottom: 20px;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    gap: 20px;
+}
+.links a{
+    padding: 10px 15px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 14px;
+    color: black;
+}
+

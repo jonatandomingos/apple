@@ -1,0 +1,25 @@
+
+
+.comprar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0px;
+    background-color: white;
+    
+}
+.comprar span{
+    font-size: 14px;
+}
+.comprar a{
+    font-size: 14px;
+    text-decoration: none
+
+}
+.comprar a:hover{
+    text-decoration: underline;
+}
+.comprar i{
+    color: #06c;
+    font-size: 14px;
+}

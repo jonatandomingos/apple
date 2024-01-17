@@ -1,0 +1,24 @@
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 10px 150px;
+    background-color: black;
+    position: fixed;
+    gap: 20px;
+    width: 100%;
+    
+}
+header i{
+    color: white;
+    font-size: 20px;
+}
+header a{
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+    font-weight: 600;
+    
+}

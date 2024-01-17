@@ -1,0 +1,49 @@
+
+
+.economize{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px;
+    background-color: #f5f5f7;
+}
+
+.title-economy{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.title-economy h2{
+    font-size: 48px;
+    padding-bottom: 10px;
+}
+.title-economy h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: #1d1d1f;
+    padding-bottom: 20px;
+}
+
+.comprar-link a{
+    text-decoration: none;
+}
+.comprar-link a span{
+    color: #2997ff;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid transparent;
+}
+.comprar-link a span:hover{
+    border-bottom: 2px solid #2997ff;
+}
+
+.comprar-link i{
+    color: #2997ff;
+    font-size: 20px;
+}
+
+.economize img{
+   padding-top: 50px;
+    height: 300px;
+}
